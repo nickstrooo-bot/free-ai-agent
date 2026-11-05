@@ -1,0 +1,2 @@
+# No dependencies — Python 3.8+ standard library only.
+# (json, os, re, subprocess, urllib, sys, concurrent.futures are all stdlib)
